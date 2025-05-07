@@ -1,2 +1,3 @@
-# HOI_Datasets
-A repository for preparing datasets for hoi task such as v-coco and hico-det
+# V-CoCo-Dataset-Prepare
+A repository for preparing v-coco dataset for hoi task 
+### 7 May 2025
